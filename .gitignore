@@ -1,0 +1,16 @@
+*.md
+!README.md
+/inventory
+/requirements.txt
+/venv
+*.pkl
+*.joblib
+*.npy
+*.csv
+*.geojson
+*.png
+*.html
+*.rar
+__pycache__/
+*.pyc
+.DS_Store
